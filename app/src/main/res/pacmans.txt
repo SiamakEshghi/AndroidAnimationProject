@@ -1,0 +1,4 @@
+Pacman1,pac1,10,100f,100f,1,0
+Pacman2,pac2,15,500f,500f,-1,0
+Pacman3,pac3,20,100f,200f,1,1
+Pacman4,pac4,24,500f,200f,-1,-1
